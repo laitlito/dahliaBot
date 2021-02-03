@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODAzMTg1MjU1MjI1MzYwMzk0.YA6Gjw.ZndIOCUGfafGGl9O5oSxCvoQzTs',
+        token: '',
         prefix: '!',
         activity: 'Règne sur le Valhalla 👑',
     },
